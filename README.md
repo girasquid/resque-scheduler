@@ -2,7 +2,6 @@ resque-scheduler
 ================
 
 
-[![Dependency Status](https://gemnasium.com/badges/github.com/resque/resque-scheduler.svg)](https://gemnasium.com/github.com/resque/resque-scheduler)
 [![Gem Version](https://badge.fury.io/rb/resque-scheduler.svg)](https://badge.fury.io/rb/resque-scheduler)
 [![Build Status](https://travis-ci.org/resque/resque-scheduler.svg?branch=master)](https://travis-ci.org/resque/resque-scheduler)
 [![Windows Build Status](https://ci.appveyor.com/api/projects/status/sxvf2086v5j0absb/branch/master?svg=true)](https://ci.appveyor.com/project/resque/resque-scheduler/branch/master)
